@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(222, 186, 132);
+    place-items: center;
+    display: grid;
+}
+
+form{
+    background-color: rgb(228, 160, 170);
+    padding: 80px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#temp_diff{
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    padding: 4px;
+}
+
+#tempNum{
+    background-color: white;
+    border-radius: 3px;
+    padding: 4px;
+
+}
+
+#sub{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 3px;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+#result{
+    color: black;
+}
+
+#lab{
+    margin-bottom: 3px;
+    padding: 5px;
+    color: rgb(16, 12, 20);
+    font-size: 23px;
+}

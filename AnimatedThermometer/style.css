@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-heading {
+    padding: 30px;
+    color: antiquewhite;
+    text-shadow: 0 1px 8px rgba(255, 255, 255, 0.5);
+    font-size: 60px;
+}

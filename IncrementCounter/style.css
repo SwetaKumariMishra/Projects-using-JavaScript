@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(14, 14, 60);
+    place-items: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+span{
+    font-size: 23px;
+    color: aliceblue;
+}
+.counter{
+    font-size: 50px;
+    color: darkgoldenrod;
+    align-items: center;
+}
